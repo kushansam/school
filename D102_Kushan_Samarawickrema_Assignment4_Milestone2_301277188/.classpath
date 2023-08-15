@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/core.jar"/>
+	<classpathentry kind="lib" path="/Users/kushansam/Library/CloudStorage/OneDrive-Personal/School/Summer 2023/Assignment 4/library/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/kushansam/Library/CloudStorage/OneDrive-Personal/School/Summer 2023/Assignment 4/library/jsminim.jar"/>
+	<classpathentry kind="lib" path="/Users/kushansam/Library/CloudStorage/OneDrive-Personal/School/Summer 2023/Assignment 4/library/minim.jar"/>
+	<classpathentry kind="lib" path="/Users/kushansam/Library/CloudStorage/OneDrive-Personal/School/Summer 2023/Assignment 4/library/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/kushansam/Library/CloudStorage/OneDrive-Personal/School/Summer 2023/Assignment 4/library/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="/Users/kushansam/Library/CloudStorage/OneDrive-Personal/School/Summer 2023/Assignment 4/library/tritonus_aos.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
